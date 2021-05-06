@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9e1497f-7426-443b-9702-ab2d12b4df27" name="Default Changelist" comment="" />
+    <list default="true" id="b9e1497f-7426-443b-9702-ab2d12b4df27" name="Default Changelist" comment="Commission" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +59,21 @@
       <option name="presentableId" value="Default" />
       <updated>1620265883298</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commission">
+      <created>1620266428155</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620266428155</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commission">
+      <created>1620266604807</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1620266604807</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -77,5 +92,7 @@
       <path value="$PROJECT_DIR$/.." />
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="Commission" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commission" />
   </component>
 </project>
